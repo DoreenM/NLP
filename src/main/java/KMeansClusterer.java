@@ -17,7 +17,8 @@ public class KMeansClusterer {
 
         public static void main(String[] args) {
 
-           
+            String data =MyGUIProgram.mytext.getText();
+
 
         }
 
