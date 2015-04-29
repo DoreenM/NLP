@@ -27,6 +27,7 @@ Since sentimental analysis is nowadays greatly being used by companies to identi
 * create sentimental analysis model :white_check_mark:
 * get tokens of the data and find the frequency in each document :white_check_mark:
 * create arff file :white_check_mark:
+* Load to weka and apply the algorithm
 * test results
 
 
