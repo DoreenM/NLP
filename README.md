@@ -13,9 +13,24 @@ Since sentimental analysis is nowadays greatly being used by companies to identi
 
 [Opennlp maven dependencies](https://opennlp.apache.org/maven-dependency.html)
 
-[K Clustering algorithm](http://sujitpal.blogspot.com.tr/2008/10/ir-math-in-java-experiments-in.html#kmeans)
+[K Clustering algorithm](http://sujitpal.blogspot.com.tr/2008/10/ir-math-in-java-experiments-in.html#kmeans) on [Weka]
 
 [Zomato Reviews](https://www.zomato.com/london/restaurants?category=2)
+
+
+
+# Steps
+
+* Get Data with Boilerpipe :white_check_mark:
+* Process Data (Removing names and separating it into sentences) :white_check_mark:
+* Tag positive and negative for all lines :white_check_mark:
+* create sentimental analysis model :white_check_mark:
+* get tokens of the data and find the frequency in each document :white_check_mark:
+* create arff file :white_check_mark:
+* test results
+
+
+
 
 
 
